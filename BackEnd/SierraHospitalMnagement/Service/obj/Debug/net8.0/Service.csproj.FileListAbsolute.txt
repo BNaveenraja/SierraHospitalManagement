@@ -78,3 +78,9 @@ C:\Users\B.Naveenraja\source\repos\SierraHospitalManagement\BackEnd\SierraHospit
 C:\Users\B.Naveenraja\source\repos\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\Service\obj\Debug\net8.0\Service.pdb
 C:\Users\B.Naveenraja\source\repos\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\Service\obj\Debug\net8.0\Service.genruntimeconfig.cache
 C:\Users\B.Naveenraja\source\repos\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\Service\obj\Debug\net8.0\Service.sourcelink.json

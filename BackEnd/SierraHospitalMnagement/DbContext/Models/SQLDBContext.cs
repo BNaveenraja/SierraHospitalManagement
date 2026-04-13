@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace SierraHospitalMnagement.Models;
+namespace DbContext.Models;
 
 public partial class SQLDBContext : DbContext
 {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SierraHospitalMnagement.Models;
+namespace DbContext.Models;
 
 public partial class Doctor
 {

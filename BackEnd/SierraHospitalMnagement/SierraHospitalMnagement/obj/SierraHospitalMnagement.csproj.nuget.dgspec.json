@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\SierraHospitalMnagement\\SierraHospitalMnagement.csproj": {}
+    "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\SierraHospitalMnagement\\SierraHospitalMnagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DbContext\\DbContext.csproj": {
+    "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DbContext\\DbContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DbContext\\DbContext.csproj",
+        "projectUniqueName": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DbContext\\DbContext.csproj",
         "projectName": "DbContext",
-        "projectPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DbContext\\DbContext.csproj",
-        "packagesPath": "C:\\Users\\B.Naveenraja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DbContext\\obj\\",
+        "projectPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DbContext\\DbContext.csproj",
+        "packagesPath": "C:\\Users\\naveenrajab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DbContext\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\B.Naveenraja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\naveenrajab\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj": {
-                "projectPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj"
+              "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj"
               }
             }
           }
@@ -49,7 +48,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -83,29 +82,47 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj": {
+    "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj",
+        "projectUniqueName": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj",
         "projectName": "DTO",
-        "projectPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj",
-        "packagesPath": "C:\\Users\\B.Naveenraja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\obj\\",
+        "projectPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj",
+        "packagesPath": "C:\\Users\\naveenrajab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\B.Naveenraja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\naveenrajab\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -114,7 +131,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -133,7 +149,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -149,29 +165,47 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Repository\\Repository.csproj": {
+    "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\B.Naveenraja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Repository\\obj\\",
+        "projectPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\naveenrajab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\B.Naveenraja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\naveenrajab\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -180,18 +214,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DbContext\\DbContext.csproj": {
-                "projectPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DbContext\\DbContext.csproj"
+              "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DbContext\\DbContext.csproj": {
+                "projectPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DbContext\\DbContext.csproj"
               },
-              "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj": {
-                "projectPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj"
+              "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj"
               }
             }
           }
@@ -206,7 +239,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -222,29 +255,47 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Service\\Service.csproj": {
+    "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\B.Naveenraja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Service\\obj\\",
+        "projectPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\naveenrajab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\B.Naveenraja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\naveenrajab\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -253,18 +304,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj": {
-                "projectPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj"
+              "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj"
               },
-              "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Repository\\Repository.csproj"
+              "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Repository\\Repository.csproj"
               }
             }
           }
@@ -279,7 +329,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -295,29 +345,47 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\SierraHospitalMnagement\\SierraHospitalMnagement.csproj": {
+    "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\SierraHospitalMnagement\\SierraHospitalMnagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\SierraHospitalMnagement\\SierraHospitalMnagement.csproj",
+        "projectUniqueName": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\SierraHospitalMnagement\\SierraHospitalMnagement.csproj",
         "projectName": "SierraHospitalMnagement",
-        "projectPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\SierraHospitalMnagement\\SierraHospitalMnagement.csproj",
-        "packagesPath": "C:\\Users\\B.Naveenraja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\SierraHospitalMnagement\\obj\\",
+        "projectPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\SierraHospitalMnagement\\SierraHospitalMnagement.csproj",
+        "packagesPath": "C:\\Users\\naveenrajab\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\SierraHospitalMnagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\B.Naveenraja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\naveenrajab\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -326,18 +394,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj": {
-                "projectPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj"
+              "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\DTO\\DTO.csproj"
               },
-              "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\B.Naveenraja\\source\\repos\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Service\\Service.csproj"
+              "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\naveenrajab\\source\\repos\\Practice\\SierraHospitalManagement\\BackEnd\\SierraHospitalMnagement\\Service\\Service.csproj"
               }
             }
           }
@@ -352,7 +419,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -390,6 +457,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.23, 8.0.23]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -398,7 +483,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

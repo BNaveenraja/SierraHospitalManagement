@@ -135,3 +135,9 @@ C:\Users\B.Naveenraja\source\repos\SierraHospitalManagement\BackEnd\SierraHospit
 C:\Users\B.Naveenraja\source\repos\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\DbContext\obj\Debug\net8.0\DbContext.pdb
 C:\Users\B.Naveenraja\source\repos\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\DbContext\obj\Debug\net8.0\DbContext.genruntimeconfig.cache
 C:\Users\B.Naveenraja\source\repos\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\DbContext\obj\Debug\net8.0\ref\DbContext.dll
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\DbContext\obj\Debug\net8.0\DbContext.csproj.AssemblyReference.cache
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\DbContext\obj\Debug\net8.0\DbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\DbContext\obj\Debug\net8.0\DbContext.AssemblyInfoInputs.cache
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\DbContext\obj\Debug\net8.0\DbContext.AssemblyInfo.cs
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\DbContext\obj\Debug\net8.0\DbContext.csproj.CoreCompileInputs.cache
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\DbContext\obj\Debug\net8.0\DbContext.sourcelink.json

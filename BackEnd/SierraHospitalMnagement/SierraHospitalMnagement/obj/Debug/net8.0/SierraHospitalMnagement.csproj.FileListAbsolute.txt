@@ -166,3 +166,12 @@ C:\Users\B.Naveenraja\source\repos\SierraHospitalManagement\BackEnd\SierraHospit
 C:\Users\B.Naveenraja\source\repos\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\SierraHospitalMnagement\obj\Debug\net8.0\SierraHospitalMnagement.pdb
 C:\Users\B.Naveenraja\source\repos\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\SierraHospitalMnagement\obj\Debug\net8.0\SierraHospitalMnagement.genruntimeconfig.cache
 C:\Users\B.Naveenraja\source\repos\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\SierraHospitalMnagement\obj\Debug\net8.0\ref\SierraHospitalMnagement.dll
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\SierraHospitalMnagement\obj\Debug\net8.0\SierraHospitalMnagement.csproj.AssemblyReference.cache
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\SierraHospitalMnagement\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\SierraHospitalMnagement\obj\Debug\net8.0\SierraHospitalMnagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\SierraHospitalMnagement\obj\Debug\net8.0\SierraHospitalMnagement.AssemblyInfoInputs.cache
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\SierraHospitalMnagement\obj\Debug\net8.0\SierraHospitalMnagement.AssemblyInfo.cs
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\SierraHospitalMnagement\obj\Debug\net8.0\SierraHospitalMnagement.csproj.CoreCompileInputs.cache
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\SierraHospitalMnagement\obj\Debug\net8.0\SierraHospitalMnagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\SierraHospitalMnagement\obj\Debug\net8.0\SierraHospitalMnagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\naveenrajab\source\repos\Practice\SierraHospitalManagement\BackEnd\SierraHospitalMnagement\SierraHospitalMnagement\obj\Debug\net8.0\SierraHospitalMnagement.sourcelink.json

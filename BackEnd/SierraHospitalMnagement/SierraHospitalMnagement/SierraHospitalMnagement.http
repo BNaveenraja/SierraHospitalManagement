@@ -1,0 +1,6 @@
+@SierraHospitalMnagement_HostAddress = http://localhost:5007
+
+GET {{SierraHospitalMnagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
